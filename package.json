@@ -1,5 +1,5 @@
 {
-  "name": "ai-backedn",
+  "name": "simple-kyc-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdullah-rafiq/AI-Backend.git"
+    "url": "git+https://github.com/abdullah-rafiq/simple-kyc-test.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abdullah-rafiq/AI-Backend/issues"
+    "url": "https://github.com/abdullah-rafiq/simple-kyc-test/issues"
   },
-  "homepage": "https://github.com/abdullah-rafiq/AI-Backend#readme",
+  "homepage": "https://github.com/abdullah-rafiq/simple-kyc-test#readme",
   "engines": {
     "node": ">=20.0.0"
   },
